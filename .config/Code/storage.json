@@ -1,0 +1,37 @@
+{
+    "telemetry.machineId": "6b98a27efb262110a8f4d0219d81f0e1de6d1ea75fbbe1dfb9f6ed2217d93061",
+    "theme": "vs-dark",
+    "themeBackground": "#1e1e1e",
+    "windowsState": {
+        "openedWindows": [],
+        "lastActiveWindow": {
+            "backupPath": "/home/daw/.config/Code/Backups/1554174609788",
+            "uiState": {
+                "mode": 1,
+                "x": 478,
+                "y": 187,
+                "width": 1024,
+                "height": 767
+            }
+        }
+    },
+    "openedPathsList": {
+        "workspaces2": [],
+        "files2": [
+            "file:///home/daw/django-daw/manage.py",
+            "file:///home/daw/django-daw/blog/templates/blog/post_list.html",
+            "file:///home/daw/django-daw/blog/templates/blog/pot_list.html",
+            "file:///home/daw/django-daw/blog/views.py",
+            "file:///home/daw/django-daw/blog/urls.py",
+            "file:///home/daw/django-daw/mysite/urls.py",
+            "file:///home/daw/django-daw/blog/models.py",
+            "file:///home/daw/django-daw/mysite/settings.py",
+            "file:///home/daw/Desktop/python_intro.py",
+            "file:///home/daw/django-daw/blog/admin.py",
+            "file:///home/daw/django-daw/site/settings.py",
+            "file:///home/daw/django-daw/my",
+            "file:///home/daw/blog/models.py",
+            "file:///home/daw/django-daw/myvenv/bin/django-admin.py"
+        ]
+    }
+}

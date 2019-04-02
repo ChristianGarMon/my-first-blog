@@ -1,0 +1,7 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Recycle Bin
+Comment=Recycle Bin Desktop Icon
+Type=Application
+Exec=exo-open --launch FileManager trash:///
+Icon=user-trash

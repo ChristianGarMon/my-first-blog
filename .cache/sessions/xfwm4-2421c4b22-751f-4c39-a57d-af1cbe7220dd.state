@@ -1,0 +1,11 @@
+[CLIENT] 0x2e00003
+  [CLIENT_LEADER] 0x2e00001
+  [RES_NAME] Welcome to Linux Lite
+  [RES_CLASS] Welcome to Linux Lite
+  [WM_NAME] Welcome to Linux Lite
+  [WM_COMMAND] (1) "lite-welcome"
+  [GEOMETRY] (129,148,768,496)
+  [GEOMETRY-MAXIMIZED] (129,148,768,496)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x0

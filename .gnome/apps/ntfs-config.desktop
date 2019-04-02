@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=NTFS Configuration Tool
+Comment=Enable/disable write support for NTFS with a simple click.
+Icon=drive-harddisk
+Exec=gksudo /usr/sbin/ntfs-config-root
+Actions=
+Categories=Application;System;
+OnlyShowIn=Old;

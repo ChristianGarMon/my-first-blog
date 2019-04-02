@@ -1,0 +1,306 @@
+{
+	"folder_history":
+	[
+		"/home/daw/django-daw"
+	],
+	"last_version": 3176,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"lett",
+						"letters_to_guess"
+					],
+					[
+						"inc",
+						"incorrect_letters_guessed"
+					],
+					[
+						"param",
+						"param1"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/daw/django-daw/mysite/settings.py",
+					"settings":
+					{
+						"buffer_size": 3219,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/daw/Desktop/python_intro.py",
+					"settings":
+					{
+						"buffer_size": 32,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "print('Hello world, in Python!')"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/daw/django-daw"
+			],
+			"file_history":
+			[
+				"/home/daw/script1.py",
+				"/home/daw/django-daw/blog/models.py",
+				"/home/daw/django-daw/blog/templates/blog/post_list.html",
+				"/home/daw/django-daw/blog/templates/blog/post_detail.html",
+				"/home/daw/django-daw/blog/admin.py",
+				"/home/daw/django-daw/blog/views.py",
+				"/home/daw/django-daw/blog/urls.py",
+				"/home/daw/django-daw/blog/forms.py",
+				"/home/daw/django-daw/blog/templates/blog/add_comment_to_post.html",
+				"/home/daw/django-daw/blog/static/css/blog.css",
+				"/home/daw/django-daw/blog/templates/blog/base.html",
+				"/home/daw/django-daw/blog/templates/registration/login.html",
+				"/home/daw/django-daw/mysite/settings.py",
+				"/home/daw/django-daw/mysite/urls.py",
+				"/home/daw/django-daw/blog/templates/blog/post_draft_list.html",
+				"/home/daw/django-daw/static/css/blog.css",
+				"/home/daw/django-daw/blog/templates/blog/post_edit.html",
+				"/home/daw/django-daw/blog/templates/404.html",
+				"/home/daw/hangman/hangman.py",
+				"/home/daw/archivo1.txt"
+			],
+			"find":
+			{
+				"height": 43.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/daw/django-daw"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/daw/django-daw/mysite/settings.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3219,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2285,
+										2285
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1674.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/daw/Desktop/python_intro.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 32,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										32,
+										32
+									]
+								],
+								"settings":
+								{
+									"auto_name": "print('Hello world, in Python!')",
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 31.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,1012,41,1652,521,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 58.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

@@ -1,0 +1,10 @@
+[CLIENT] 0x3800002
+  [RES_NAME] conky-semi
+  [RES_CLASS] conky-semi
+  [WM_NAME] conky (linux)
+  [WM_COMMAND] (3) "conky" "-c" "/etc/skel//.conky/widget"
+  [GEOMETRY] (735,380,278,337)
+  [GEOMETRY-MAXIMIZED] (505,361,14,14)
+  [SCREEN] 0
+  [DESK] 0
+  [FLAGS] 0x8000

@@ -1,0 +1,85 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/daw/.Xauthority
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=es_MX.UTF-8
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/xfce.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=es_MX.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/daw
+dbus-update-activation-environment: setting USER=daw
+dbus-update-activation-environment: setting DESKTOP_SESSION=xfce
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/xfce.default.path
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting PWD=/home/daw
+dbus-update-activation-environment: setting HOME=/home/daw
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xfce
+dbus-update-activation-environment: setting LC_ADDRESS=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=es_MX.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=:canberra-gtk-module
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_TELEPHONE=es_MX.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=xfce
+dbus-update-activation-environment: setting LOGNAME=daw
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/daw/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0 
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xfce:/etc/xdg
+dbus-update-activation-environment: setting PATH=/home/daw/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting LC_IDENTIFICATION=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_TIME=es_MX.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+xfce4-session-Message: 19:57:03.658: SSH authentication agent is already running
+gpg-agent[1359]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1352): xfce4-session-WARNING **: 19:57:03.668: gpg-agent returned no PID in the variables
+
+(xfce4-session:1352): xfce4-session-WARNING **: 19:57:03.685: xfsm_manager_load_session: Something wrong with /home/daw/.cache/sessions/xfce4-session-daw-VirtualBox:0, Does it exist? Permissions issue?
+This tool has been deprecated, use 'gio mount' instead.
+See 'gio help mount' for more info.
+
+Playing WAVE '/usr/share/sounds/Lite/stereo/startupsound.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+
+(polkit-gnome-authentication-agent-1:1560): GLib-CRITICAL **: 19:57:15.051: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1560): polkit-gnome-1-WARNING **: 19:57:15.052: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+gio: file:///home/daw/%3E: volume doesn’t implement mount
+gio: file:///dev/null: volume doesn’t implement mount
+gio: file:///home/daw/&&: volume doesn’t implement mount
+gio: file:///home/daw/gvfs-ls: volume doesn’t implement mount
+gio: file:///home/daw/%3E: volume doesn’t implement mount
+gio: file:///dev/null: volume doesn’t implement mount
+
+(nm-applet:1498): Gtk-WARNING **: 19:57:17.496: Can't set a parent on widget which has a parent
+
+** (wrapper-2.0:1636): WARNING **: 19:57:18.191: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:1636): pulseaudio-plugin-WARNING **: 19:57:18.191: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+(nm-applet:1498): Gdk-CRITICAL **: 19:57:18.592: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(wrapper-2.0:1636): Gtk-WARNING **: 19:57:18.669: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:1603): Gtk-WARNING **: 19:57:22.607: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 20:09:09.671: GtkDialog mapped without a transient parent. This is discouraged.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 20:10:29.772: GtkDialog mapped without a transient parent. This is discouraged.

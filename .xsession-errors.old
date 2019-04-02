@@ -1,0 +1,89 @@
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting XAUTHORITY=/home/daw/.Xauthority
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting LC_MEASUREMENT=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_PAPER=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_MONETARY=es_MX.UTF-8
+dbus-update-activation-environment: setting LANG=en_US.UTF-8
+dbus-update-activation-environment: setting GDM_LANG=en_US
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf/xfce.mandatory.path
+dbus-update-activation-environment: setting LC_NAME=es_MX.UTF-8
+dbus-update-activation-environment: setting XDG_GREETER_DATA_DIR=/var/lib/lightdm-data/daw
+dbus-update-activation-environment: setting USER=daw
+dbus-update-activation-environment: setting DESKTOP_SESSION=xfce
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf/xfce.default.path
+dbus-update-activation-environment: setting QT_QPA_PLATFORMTHEME=qt5ct
+dbus-update-activation-environment: setting PWD=/home/daw
+dbus-update-activation-environment: setting HOME=/home/daw
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share/xfce4:/usr/local/share/:/usr/share/
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=xfce
+dbus-update-activation-environment: setting LC_ADDRESS=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_NUMERIC=es_MX.UTF-8
+dbus-update-activation-environment: setting GTK_MODULES=:canberra-gtk-module
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=XFCE
+dbus-update-activation-environment: setting GPG_AGENT_INFO=/run/user/1000/gnupg/S.gpg-agent:0:1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=en_US
+dbus-update-activation-environment: setting LC_TELEPHONE=es_MX.UTF-8
+dbus-update-activation-environment: setting GDMSESSION=xfce
+dbus-update-activation-environment: setting LOGNAME=daw
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:path=/run/user/1000/bus
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting XAUTHORITY=/home/daw/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session0
+dbus-update-activation-environment: setting QT_AUTO_SCREEN_SCALE_FACTOR=0 
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-xfce:/etc/xdg
+dbus-update-activation-environment: setting PATH=/home/daw/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+dbus-update-activation-environment: setting LC_IDENTIFICATION=es_MX.UTF-8
+dbus-update-activation-environment: setting LC_TIME=es_MX.UTF-8
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+xfce4-session-Message: 09:21:44.171: SSH authentication agent is already running
+gpg-agent[1394]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+gpg-agent: a gpg-agent is already running - not starting a new one
+
+(xfce4-session:1387): xfce4-session-WARNING **: 09:21:44.197: gpg-agent returned no PID in the variables
+
+(xfce4-session:1387): xfce4-session-WARNING **: 09:21:44.228: xfsm_manager_load_session: Something wrong with /home/daw/.cache/sessions/xfce4-session-daw-VirtualBox:0, Does it exist? Permissions issue?
+This tool has been deprecated, use 'gio mount' instead.
+See 'gio help mount' for more info.
+
+
+(polkit-gnome-authentication-agent-1:1510): GLib-CRITICAL **: 09:21:51.010: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1510): polkit-gnome-1-WARNING **: 09:21:51.012: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
+Playing WAVE '/usr/share/sounds/Lite/stereo/startupsound.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+gio: file:///home/daw/%3E: volume doesn’t implement mount
+gio: file:///dev/null: volume doesn’t implement mount
+gio: file:///home/daw/&&: volume doesn’t implement mount
+gio: file:///home/daw/gvfs-ls: volume doesn’t implement mount
+gio: file:///home/daw/%3E: volume doesn’t implement mount
+gio: file:///dev/null: volume doesn’t implement mount
+
+(nm-applet:1441): Gtk-WARNING **: 09:21:54.541: Can't set a parent on widget which has a parent
+
+(xfce4-panel:1402): Wnck-CRITICAL **: 09:21:57.396: wnck_workspace_is_virtual: assertion 'WNCK_IS_WORKSPACE (space)' failed
+
+** (wrapper-2.0:1603): WARNING **: 09:21:57.939: Binding 'XF86AudioLowerVolume' failed!
+
+(wrapper-2.0:1603): pulseaudio-plugin-WARNING **: 09:21:57.940: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+
+(wrapper-2.0:1603): Gtk-WARNING **: 09:21:58.054: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+(wrapper-2.0:1586): Gtk-WARNING **: 09:22:01.091: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+
+(xfce4-terminal:2886): Gdk-CRITICAL **: 09:40:25.936: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+
+(xfce4-terminal:3028): Gdk-CRITICAL **: 09:41:07.137: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed

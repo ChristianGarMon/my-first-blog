@@ -1,0 +1,10 @@
+logrotate state -- version 2
+"/etc/skel//.cache/upstart/indicator-application.log" 2018-1-14-17:58:16
+"/etc/skel//.cache/upstart/gnome-keyring.log" 2018-3-19-23:18:48
+"/etc/skel//.cache/upstart/ssh-agent.log" 2018-3-19-23:18:48
+"/etc/skel//.cache/upstart/indicator-sound.log" 2018-3-19-22:53:45
+"/etc/skel//.cache/upstart/dbus.log" 2018-3-19-23:18:48
+"/etc/skel//.cache/upstart/startxfce4.log" 2018-3-19-23:18:48
+"/etc/skel//.cache/upstart/*.log" 2016-9-26-6:0:0
+"/etc/skel//.cache/upstart/gnome-keyring-ssh.log" 2018-3-19-23:18:48
+"/etc/skel//.cache/upstart/upstart-event-bridge.log" 2018-3-19-23:18:48

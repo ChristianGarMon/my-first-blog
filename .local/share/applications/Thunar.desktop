@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.1
+Type=Application
+Name=Home Folder
+GenericName=File Manager
+Comment=Browse your home folder
+Icon=user-home
+Exec=exo-open --launch FileManager %u
+Actions=
+Categories=Core;FileManager;FileTools;GTK;Utility;
+StartupNotify=true
