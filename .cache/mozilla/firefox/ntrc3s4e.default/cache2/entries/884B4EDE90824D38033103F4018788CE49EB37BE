@@ -412,15 +412,15 @@
       </footer>
     </body>
 </html>
-G½‡‘      \›¯\›¯@0„“           :http://localhost:8000/ necko:classified 1 strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Wed, 27 Mar 2019 06:48:15 GMT
+ŸÜH´‘           \ÙŸ%@[Ø¢           :http://localhost:8000/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Mon, 13 May 2019 16:45:24 GMT
 Server: WSGIServer/0.2 CPython/3.6.7
 Content-Type: text/html
 X-Frame-Options: SAMEORIGIN
 Content-Length: 16387
- original-response-headers Date: Wed, 27 Mar 2019 06:48:15 GMT
+ original-response-headers Date: Mon, 13 May 2019 16:45:24 GMT
 Server: WSGIServer/0.2 CPython/3.6.7
 Content-Type: text/html
 X-Frame-Options: SAMEORIGIN
 Content-Length: 16387
- uncompressed-len 0 net-response-time-onstart 5 net-response-time-onstop 12 predictor::resource-count 1 predictor::http://localhost:8000/static/admin/css/fonts.css 1,1,1553669295,4096   @
+ uncompressed-len 0 predictor::resource-count 4 predictor::http://localhost:8000/static/admin/css/fonts.css 1,1,0,4097 predictor::http://localhost:8000/static/admin/fonts/Roboto-Regular-webfont.woff 1,1,0,4096 predictor::http://localhost:8000/static/admin/fonts/Roboto-Bold-webfont.woff 1,1,0,4096 predictor::http://localhost:8000/static/admin/fonts/Roboto-Light-webfont.woff 1,1,0,4096   @

@@ -1,72 +1,3 @@
-git status
-git status
-git remote add origin gallegosj89/my-first-blog.git
-git push -u origin master
-git push -u origin master
-git remote update origin https://github.com/gallegosj89/my-first-blog.git
-git remote update set-url https://github.com/gallegosj89/my-first-blog.git
-git remote remove origin
-git remote
-git remote add origin https://github.com/gallegosj89/my-first-blog.git
-git push -u origin master
-exit
-cd django-daw/
-source myvenv/bin/activate
-vim mysite/urls.py 
-vim blog/urls.py
-ls
-ls blog/
-cat blog/views.py 
-python manage.py runserver
-ls
-vim blog/urls.py
-python manage.py runserver
-vim blog/views.py 
-python manage.py runserver
-vim blog/views.py 
-vim blog/views.py 
-exit
-cd django-daw/
-source myvenv/bin/activate
-ls blog/
-mkdir templates
-rm -r templates/
-mkdir blog/templates
-mkdir blog/templates/blog
-touch blog/templates/blog/post_list.html
-cat blog/views.py 
-python manage.py runserver
-vim blog/templates/blog/post_list.html 
-python manage.py runserver
-vim blog/templates/blog/post_list.html 
-subl blog/templates/blog/post_list.html 
-python manage.py runserver
-git status
-git diff
-git add .
-git status
-git commit -m "Add post_list view. Add blog.urls. Add post_list template"
-git status
-git push
-cd django-daw
-source myvenv/bin/activate
-python manage.py shell
-exit
-cd django-daw/
-source myvenv/bin/activate
-vim blog/views.py 
-vim blog/templates/blog/post_list.html 
-subl blog/templates/blog/post_list.html 
-python manage.py runserver
-python manage.py runserver
-python manage.py runserver
-python manage.py runserver
-python manage.py runserver
-git status
-git diff
-git add .
-git commit -m "Agegar template tags a post_list. Actualizar vista post_list con QuerySet"
-git pull
 git push
 python manage.py runserver
 python manage.py runserver
@@ -498,3 +429,72 @@ cd django-daw
 mkadir .gitignore
 cd ~/django-daw
 mkdir django-daw/.gitignore.py
+git status
+git add
+git add --all
+git commit -m "Mi primer commit"
+git remote add origin https://github.com/ChristianGarMon/my-first-blog.git
+git push -u origin master
+pip3 install --user pythonanywhere
+pa_autoconfigure_django.py https://github.com/<ChristianGarMon>/my-first-blog.git
+pa_autoconfigure_django.py https://github.com/ChristianGarMon/my-first-blog.git
+python manage.py createsuperuser
+cd django-daw
+python manage.py createsuperuser
+cd django-daw 
+source myvenv/bin/activate
+python manage.py collectstatic
+ls static
+mkdir blog/static
+cd django-daw
+source myvenv/bin/activate
+python manage.py collectstatic
+ls static
+mkdir blog/static
+mkdir blog/static/css
+touch blog/static/css/blog.css
+cd django-daw
+mkadir blog/static
+mkdir blog/static
+mkdir blog/static/css
+touch blog/static/css/blog.css
+python manage.py runserver
+cd django-daw
+source myvenv/bin/activate
+code blog/admin.py
+python manage.py runserver
+cd django-daw
+source myvenv/bin/activate
+touch blog/forms.py
+mkadir blog/forms.py
+mkdir blog/forms.py
+mkdir blog/templates/blog/base.html
+python manage.py runserver
+python manage.py runserver
+cd django-daw
+source myvenv/bin/activate
+touch blog/forms.py
+python manage.py runserver
+cd django-daw
+git init
+git config user.name Christian
+git config user.email 12gmc18@gmail.com
+git status
+git add --all .
+git commit -m "Mi primer commit"
+git remote add origin https://github.com/ChristianGarMon/my-first-blog.git
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+git push -u origin master
+cd django-daw
+git init
+git config user.name Christian
+git config user.email christiangarciamontejo@gmail.com
+git status
+git add --all .
+git commit -m "Mi primer commit"
+git remote add origin https://github.com/ChristianGarMon/my-first-blog.git
+git remote add origin https://github.com/ChristianGarMon/my-first-blog.git
+git push -u origin master

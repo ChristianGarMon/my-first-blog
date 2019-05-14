@@ -44,21 +44,21 @@ dbus-update-activation-environment: setting PATH=/home/daw/.local/bin:/usr/local
 dbus-update-activation-environment: setting LC_IDENTIFICATION=es_MX.UTF-8
 dbus-update-activation-environment: setting LC_TIME=es_MX.UTF-8
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-xfce4-session-Message: 09:21:44.171: SSH authentication agent is already running
-gpg-agent[1394]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+xfce4-session-Message: 19:57:03.658: SSH authentication agent is already running
+gpg-agent[1359]: WARNING: "--write-env-file" is an obsolete option - it has no effect
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-(xfce4-session:1387): xfce4-session-WARNING **: 09:21:44.197: gpg-agent returned no PID in the variables
+(xfce4-session:1352): xfce4-session-WARNING **: 19:57:03.668: gpg-agent returned no PID in the variables
 
-(xfce4-session:1387): xfce4-session-WARNING **: 09:21:44.228: xfsm_manager_load_session: Something wrong with /home/daw/.cache/sessions/xfce4-session-daw-VirtualBox:0, Does it exist? Permissions issue?
+(xfce4-session:1352): xfce4-session-WARNING **: 19:57:03.685: xfsm_manager_load_session: Something wrong with /home/daw/.cache/sessions/xfce4-session-daw-VirtualBox:0, Does it exist? Permissions issue?
 This tool has been deprecated, use 'gio mount' instead.
 See 'gio help mount' for more info.
 
-
-(polkit-gnome-authentication-agent-1:1510): GLib-CRITICAL **: 09:21:51.010: g_variant_new_string: assertion 'string != NULL' failed
-
-(polkit-gnome-authentication-agent-1:1510): polkit-gnome-1-WARNING **: 09:21:51.012: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 Playing WAVE '/usr/share/sounds/Lite/stereo/startupsound.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
+
+(polkit-gnome-authentication-agent-1:1560): GLib-CRITICAL **: 19:57:15.051: g_variant_new_string: assertion 'string != NULL' failed
+
+(polkit-gnome-authentication-agent-1:1560): polkit-gnome-1-WARNING **: 19:57:15.052: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 gio: file:///home/daw/%3E: volume doesn’t implement mount
 gio: file:///dev/null: volume doesn’t implement mount
 gio: file:///home/daw/&&: volume doesn’t implement mount
@@ -66,24 +66,33 @@ gio: file:///home/daw/gvfs-ls: volume doesn’t implement mount
 gio: file:///home/daw/%3E: volume doesn’t implement mount
 gio: file:///dev/null: volume doesn’t implement mount
 
-(nm-applet:1441): Gtk-WARNING **: 09:21:54.541: Can't set a parent on widget which has a parent
+(nm-applet:1498): Gtk-WARNING **: 19:57:17.496: Can't set a parent on widget which has a parent
 
-(xfce4-panel:1402): Wnck-CRITICAL **: 09:21:57.396: wnck_workspace_is_virtual: assertion 'WNCK_IS_WORKSPACE (space)' failed
+** (wrapper-2.0:1636): WARNING **: 19:57:18.191: Binding 'XF86AudioLowerVolume' failed!
 
-** (wrapper-2.0:1603): WARNING **: 09:21:57.939: Binding 'XF86AudioLowerVolume' failed!
+(wrapper-2.0:1636): pulseaudio-plugin-WARNING **: 19:57:18.191: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
 
-(wrapper-2.0:1603): pulseaudio-plugin-WARNING **: 09:21:57.940: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+(nm-applet:1498): Gdk-CRITICAL **: 19:57:18.592: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
 
-(wrapper-2.0:1603): Gtk-WARNING **: 09:21:58.054: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+(wrapper-2.0:1636): Gtk-WARNING **: 19:57:18.669: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
 
-(wrapper-2.0:1586): Gtk-WARNING **: 09:22:01.091: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+(wrapper-2.0:1603): Gtk-WARNING **: 19:57:22.607: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
 bash: cannot set terminal process group (-1): Inappropriate ioctl for device
 bash: no job control in this shell
+Gtk-Message: 20:09:09.671: GtkDialog mapped without a transient parent. This is discouraged.
 bash: cannot set terminal process group (-1): Inappropriate ioctl for device
 bash: no job control in this shell
-bash: cannot set terminal process group (-1): Inappropriate ioctl for device
-bash: no job control in this shell
+Gtk-Message: 20:10:29.772: GtkDialog mapped without a transient parent. This is discouraged.
+thunar-volman: Unsupported USB device type "usb".
+[Parent 2422, Gecko_IOThread] WARNING: pipe error (112): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 2422, Gecko_IOThread] WARNING: pipe error (132): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+[Parent 2422, Gecko_IOThread] WARNING: pipe error (59): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+xfce4-session-Message: 21:10:07.892: Got disconnected from D-Bus.  Unless this happened during session shutdown, this is probably a bad thing.
 
-(xfce4-terminal:2886): Gdk-CRITICAL **: 09:40:25.936: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+(Thunar:1369): GVFS-RemoteVolumeMonitor-WARNING **: 21:10:07.928: Owner of volume monitor org.gtk.vfs.MTPVolumeMonitor disconnected from the bus; removing drives/volumes/mounts
 
-(xfce4-terminal:3028): Gdk-CRITICAL **: 09:41:07.137: gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+(Thunar:1369): GVFS-RemoteVolumeMonitor-WARNING **: 21:10:07.944: Owner of volume monitor org.gtk.vfs.UDisks2VolumeMonitor disconnected from the bus; removing drives/volumes/mounts
+xfce4-session: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.
+xfsettingsd: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+xfdesktop: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.
+xfwm4: Fatal IO error 11 (Resource temporarily unavailable) on X server :0.0.

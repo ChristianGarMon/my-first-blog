@@ -1,0 +1,8 @@
+[2019-05-13 08:46:12.365] [sharedprocess] [info] main {"machineId":"6b98a27efb262110a8f4d0219d81f0e1de6d1ea75fbbe1dfb9f6ed2217d93061"}
+[2019-05-13 08:46:12.864] [sharedprocess] [info] Scanned user extensions: 3
+[2019-05-13 08:46:13.473] [sharedprocess] [info] Scanned user extensions: 3
+[2019-05-13 08:46:13.554] [sharedprocess] [info] Scanned system extensions: 71
+[2019-05-13 08:46:13.856] [sharedprocess] [info] Deleted from disk ms-python.python /home/daw/.vscode/extensions/ms-python.python-2019.3.6215
+[2019-05-13 08:46:13.858] [sharedprocess] [info] Scanned system extensions: 71
+[2019-05-13 08:46:14.043] [sharedprocess] [info] Scanned user extensions: 3
+[2019-05-13 08:46:52.467] [sharedprocess] [info] Starting to clean up unused language packs.

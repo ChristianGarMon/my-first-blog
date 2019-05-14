@@ -1,0 +1,8 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module blog.admin
+1,0,error,import-error:Unable to import 'django.contrib'
+
+----------------------------------------------------------------------
+Your code has been rated at -40.00/10 (previous run: -6.67/10, -33.33)
+

@@ -44,21 +44,17 @@ dbus-update-activation-environment: setting PATH=/home/daw/.local/bin:/usr/local
 dbus-update-activation-environment: setting LC_IDENTIFICATION=es_MX.UTF-8
 dbus-update-activation-environment: setting LC_TIME=es_MX.UTF-8
 dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
-xfce4-session-Message: 19:57:03.658: SSH authentication agent is already running
-gpg-agent[1359]: WARNING: "--write-env-file" is an obsolete option - it has no effect
+xfce4-session-Message: 08:34:22.142: SSH authentication agent is already running
+gpg-agent[1391]: WARNING: "--write-env-file" is an obsolete option - it has no effect
 gpg-agent: a gpg-agent is already running - not starting a new one
 
-(xfce4-session:1352): xfce4-session-WARNING **: 19:57:03.668: gpg-agent returned no PID in the variables
+(xfce4-session:1384): xfce4-session-WARNING **: 08:34:22.166: gpg-agent returned no PID in the variables
 
-(xfce4-session:1352): xfce4-session-WARNING **: 19:57:03.685: xfsm_manager_load_session: Something wrong with /home/daw/.cache/sessions/xfce4-session-daw-VirtualBox:0, Does it exist? Permissions issue?
+(xfce4-session:1384): xfce4-session-WARNING **: 08:34:22.196: xfsm_manager_load_session: Something wrong with /home/daw/.cache/sessions/xfce4-session-daw-VirtualBox:0, Does it exist? Permissions issue?
 This tool has been deprecated, use 'gio mount' instead.
 See 'gio help mount' for more info.
 
 Playing WAVE '/usr/share/sounds/Lite/stereo/startupsound.wav' : Signed 16 bit Little Endian, Rate 44100 Hz, Stereo
-
-(polkit-gnome-authentication-agent-1:1560): GLib-CRITICAL **: 19:57:15.051: g_variant_new_string: assertion 'string != NULL' failed
-
-(polkit-gnome-authentication-agent-1:1560): polkit-gnome-1-WARNING **: 19:57:15.052: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 gio: file:///home/daw/%3E: volume doesn’t implement mount
 gio: file:///dev/null: volume doesn’t implement mount
 gio: file:///home/daw/&&: volume doesn’t implement mount
@@ -66,20 +62,109 @@ gio: file:///home/daw/gvfs-ls: volume doesn’t implement mount
 gio: file:///home/daw/%3E: volume doesn’t implement mount
 gio: file:///dev/null: volume doesn’t implement mount
 
-(nm-applet:1498): Gtk-WARNING **: 19:57:17.496: Can't set a parent on widget which has a parent
+(polkit-gnome-authentication-agent-1:1483): GLib-CRITICAL **: 08:34:29.646: g_variant_new_string: assertion 'string != NULL' failed
 
-** (wrapper-2.0:1636): WARNING **: 19:57:18.191: Binding 'XF86AudioLowerVolume' failed!
+(polkit-gnome-authentication-agent-1:1483): polkit-gnome-1-WARNING **: 08:34:29.651: Failed to register client: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.SessionManager was not provided by any .service files
 
-(wrapper-2.0:1636): pulseaudio-plugin-WARNING **: 19:57:18.191: Could not have grabbed volume control keys. Is another volume control application (xfce4-volumed) running?
+** (xfce4-volumed:1482): WARNING **: 08:34:34.894: Binding 'XF86AudioMute' failed!
 
-(nm-applet:1498): Gdk-CRITICAL **: 19:57:18.592: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+** (xfce4-volumed:1482): WARNING **: 08:34:34.906: Binding 'XF86AudioLowerVolume' failed!
 
-(wrapper-2.0:1636): Gtk-WARNING **: 19:57:18.669: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+** (xfce4-volumed:1482): WARNING **: 08:34:34.913: Binding 'XF86AudioRaiseVolume' failed!
 
-(wrapper-2.0:1603): Gtk-WARNING **: 19:57:22.607: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+** (xfce4-volumed:1482): WARNING **: 08:34:34.945: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:34.950: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:34.962: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:34.996: Binding 'XF86AudioMute' failed!
+
+(wrapper-2.0:1589): Gtk-WARNING **: 08:34:35.004: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner PulseaudioButton)
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.004: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.026: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.057: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.062: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.069: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.102: Binding 'XF86AudioMute' failed!
+
+(nm-applet:1425): Gtk-WARNING **: 08:34:35.107: Can't set a parent on widget which has a parent
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.112: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.119: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.153: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.159: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.165: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.197: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.203: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.209: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.232: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.238: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.244: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.276: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.282: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.288: Binding 'XF86AudioRaiseVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.318: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.325: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:34:35.332: Binding 'XF86AudioRaiseVolume' failed!
+
+(nm-applet:1425): Gdk-CRITICAL **: 08:34:35.499: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+
+(wrapper-2.0:1575): Gtk-WARNING **: 08:34:39.998: Negative content width -1 (allocation 1, extents 1x1) while allocating gadget (node button, owner GtkToggleButton)
+
+** (xfce4-volumed:1482): WARNING **: 08:37:24.861: Binding 'XF86AudioMute' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:37:24.871: Binding 'XF86AudioLowerVolume' failed!
+
+** (xfce4-volumed:1482): WARNING **: 08:37:24.883: Binding 'XF86AudioRaiseVolume' failed!
 bash: cannot set terminal process group (-1): Inappropriate ioctl for device
 bash: no job control in this shell
-Gtk-Message: 20:09:09.671: GtkDialog mapped without a transient parent. This is discouraged.
+thunar-volman: Unsupported USB device type "usb".
+
+(xfwm4:1395): xfwm4-WARNING **: 09:04:54.993: output size (1920x952) and logical screen size (1920x1080) do not match
+
+(nm-applet:1425): Gdk-CRITICAL **: 08:35:50.794: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
 bash: cannot set terminal process group (-1): Inappropriate ioctl for device
 bash: no job control in this shell
-Gtk-Message: 20:10:29.772: GtkDialog mapped without a transient parent. This is discouraged.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 08:57:24.577: GtkDialog mapped without a transient parent. This is discouraged.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+thunar-volman: Unsupported USB device type "usb".
+[Parent 2765, Gecko_IOThread] WARNING: pipe error (73): Connection reset by peer: file /build/firefox-HN7tk_/firefox-65.0+build2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 349
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 08:36:44.509: GtkDialog mapped without a transient parent. This is discouraged.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+Gtk-Message: 08:40:32.037: GtkDialog mapped without a transient parent. This is discouraged.
+Gtk-Message: 08:43:03.686: GtkDialog mapped without a transient parent. This is discouraged.
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell
+bash: cannot set terminal process group (-1): Inappropriate ioctl for device
+bash: no job control in this shell

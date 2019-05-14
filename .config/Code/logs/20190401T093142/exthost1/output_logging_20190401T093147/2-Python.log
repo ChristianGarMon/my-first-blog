@@ -1,9 +1,0 @@
-Starting Jedi Python language engine.
-##########Linting Output - pylint##########
-************* Module manage
-15,0,error,syntax-error:invalid syntax (<unknown>, line 15)
-##########Linting Output - pylint##########
-
---------------------------------------------------------------------
-Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
-

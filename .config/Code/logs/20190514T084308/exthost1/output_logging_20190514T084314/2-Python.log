@@ -1,0 +1,9 @@
+Starting Jedi Python language engine.
+##########Linting Output - pylint##########
+************* Module mysite.urls
+16,0,error,import-error:Unable to import 'django.contrib'
+17,0,error,import-error:Unable to import 'django.urls'
+
+----------------------------------------------------------------------
+Your code has been rated at -23.33/10 (previous run: -23.33/10, +0.00)
+

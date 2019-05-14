@@ -1,6 +1,6 @@
 [Added Associations]
 application/x-shellscript=leafpad.desktop;
-text/plain=leafpad.desktop;
+text/plain=code.desktop;leafpad.desktop;
 x-scheme-handler/http=exo-web-browser.desktop
 x-scheme-handler/https=exo-web-browser.desktop
 application/vnd.debian.binary-package=gdebi.desktop;
@@ -22,7 +22,7 @@ application/vnd.openxmlformats-officedocument.spreadsheetml.template=libreoffice
 image/svg+xml=gimp.desktop;
 text/x-log=leafpad.desktop;
 image/x-xpixmap=gimp.desktop;shotwell.desktop;
-text/css=leafpad.desktop;
+text/css=code.desktop;leafpad.desktop;
 application/x-7z-compressed=org.gnome.FileRoller.desktop;
 application/x-bzip-compressed-tar=org.gnome.FileRoller.desktop;
 application/zip=org.gnome.FileRoller.desktop;
@@ -37,7 +37,7 @@ video/x-matroska=vlc.desktop;
 video/mp4=vlc.desktop;
 text/x-apt-sources-list=leafpad.desktop;
 text/x-python=code.desktop;sublime_text.desktop;leafpad.desktop;
-text/html=leafpad.desktop;firefox.desktop;
+text/html=code.desktop;leafpad.desktop;firefox.desktop;
 text/x-matlab=leafpad.desktop;
 application/x-jar=openjdk-11-java.desktop;
 application/x-java-archive=org.gnome.FileRoller.desktop;openjdk-11-java.desktop;

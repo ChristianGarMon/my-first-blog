@@ -412,15 +412,15 @@
       </footer>
     </body>
 </html>
-åôçí‘           \¢7å@5qŽ           :http://127.0.0.1:8000/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
-Date: Mon, 01 Apr 2019 16:10:13 GMT
+ÍCÝ7‘           \ÚàØ@\·ž           :http://127.0.0.1:8000/ strongly-framed 1 request-method GET response-head HTTP/1.1 200 OK
+Date: Tue, 14 May 2019 15:37:59 GMT
 Server: WSGIServer/0.2 CPython/3.6.7
 Content-Type: text/html
 X-Frame-Options: SAMEORIGIN
 Content-Length: 16387
- original-response-headers Date: Mon, 01 Apr 2019 16:10:13 GMT
+ original-response-headers Date: Tue, 14 May 2019 15:37:59 GMT
 Server: WSGIServer/0.2 CPython/3.6.7
 Content-Type: text/html
 X-Frame-Options: SAMEORIGIN
 Content-Length: 16387
- uncompressed-len 0 predictor::resource-count 1 predictor::http://127.0.0.1:8000/static/admin/css/fonts.css 1,1,0,4096   @
+ uncompressed-len 0 predictor::resource-count 4 predictor::http://127.0.0.1:8000/static/admin/css/fonts.css 1,1,0,4097 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Regular-webfont.woff 1,1,0,4096 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Bold-webfont.woff 1,1,0,4096 predictor::http://127.0.0.1:8000/static/admin/fonts/Roboto-Light-webfont.woff 1,1,0,4096   @

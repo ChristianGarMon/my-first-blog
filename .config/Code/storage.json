@@ -5,11 +5,11 @@
     "windowsState": {
         "openedWindows": [],
         "lastActiveWindow": {
-            "backupPath": "/home/daw/.config/Code/Backups/1554174609788",
+            "backupPath": "/home/daw/.config/Code/Backups/1557850098893",
             "uiState": {
                 "mode": 1,
                 "x": 478,
-                "y": 187,
+                "y": 154,
                 "width": 1024,
                 "height": 767
             }
@@ -18,16 +18,19 @@
     "openedPathsList": {
         "workspaces2": [],
         "files2": [
-            "file:///home/daw/django-daw/manage.py",
+            "file:///home/daw/django-daw/.gitignore",
+            "file:///home/daw/django-daw/mysite/urls.py",
             "file:///home/daw/django-daw/blog/templates/blog/post_list.html",
+            "file:///home/daw/django-daw/blog/forms.py",
+            "file:///home/daw/django-daw/blog/admin.py",
+            "file:///home/daw/django-daw/blog/static/css/blog.css",
+            "file:///home/daw/django-daw/manage.py",
             "file:///home/daw/django-daw/blog/templates/blog/pot_list.html",
             "file:///home/daw/django-daw/blog/views.py",
             "file:///home/daw/django-daw/blog/urls.py",
-            "file:///home/daw/django-daw/mysite/urls.py",
             "file:///home/daw/django-daw/blog/models.py",
             "file:///home/daw/django-daw/mysite/settings.py",
             "file:///home/daw/Desktop/python_intro.py",
-            "file:///home/daw/django-daw/blog/admin.py",
             "file:///home/daw/django-daw/site/settings.py",
             "file:///home/daw/django-daw/my",
             "file:///home/daw/blog/models.py",
